@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenProvider", "TokenProvider\TokenProvider.csproj", "{BA15A30F-B8C0-4623-AF3D-D3BB0E87B4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenProvider.Infrastructure", "TokenProvider.Infrastructure\TokenProvider.Infrastructure.csproj", "{324FC02C-DE6A-4024-95F7-B8F50BA74FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA15A30F-B8C0-4623-AF3D-D3BB0E87B4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA15A30F-B8C0-4623-AF3D-D3BB0E87B4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA15A30F-B8C0-4623-AF3D-D3BB0E87B4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA15A30F-B8C0-4623-AF3D-D3BB0E87B4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324FC02C-DE6A-4024-95F7-B8F50BA74FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324FC02C-DE6A-4024-95F7-B8F50BA74FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324FC02C-DE6A-4024-95F7-B8F50BA74FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324FC02C-DE6A-4024-95F7-B8F50BA74FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C269BD55-37F9-4D72-A8C3-F403676DF227}
+	EndGlobalSection
+EndGlobal
